@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://quine.sh/profile/ArittraBag"><img src="https://stats.quine.sh/ArittraBag/github" alt="ArittraBag's GitHub stats" width="840px"></a>
 
-[![Arittra-Bag GitHub stats](https://github-readme-stats.vercel.app/api?username=Arittra-Bag&show_icons=true&count_private=true&hide=stars&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
+![Arittra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arittra-Bag&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arittra-Bag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
