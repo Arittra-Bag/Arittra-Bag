@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arittra-Bag&show_icons=true&count_private=true&hide=stars&include_all_commits=true&custom_title=Monthly+Contributions)
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arittra-Bag&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arittra-Bag&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
