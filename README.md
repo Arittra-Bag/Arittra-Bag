@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Arittra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arittra-Bag&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arittra-Bag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arittra-Bag&layout=compact)]
 
-[![Arittra-Bag activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arittra-Bag&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arittra-Bag activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arittra-Bag&theme=github-compact)]
