@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arittra-Bag&layout=compact)
 
 ![Arittra-Bag activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arittra-Bag&theme=github-compact)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arittra-Bag"/></p>
