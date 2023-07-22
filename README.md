@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arittra Bag</h1> 
- <h3 align="center">Software & Web3 Enthusiast</h3>
+<h3 align="center">Software & Web3 Enthusiast</h3>
 
-// 👋 Hi, I’m **Arittra Bag**
-// 👀 I’m Interested in Web & Software Development
 - 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on Projects of Responsive Web Design & Full-Stack Websites
 - 📫 How to reach me ?....You can contact me via arittrabag@gmail.com
