@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arittra Bag</h1> 
-<h3 align="center">Software & Web3 Enthusiast</h3>
+<h3 align="center">ML Engineer & Software Developer</h3>
 
-- 🌱 I’m currently learning Full-Stack Development
-- 💞️ I’m looking to collaborate on Projects of Responsive Web Design & Full-Stack Websites
+- 🌱 I’m currently working with GAN & ResNet Models.
+- 💞️ I’m looking to collaborate on Projects of SaaS, Machine Learning & Deep Learning.
 - 📫 How to reach me ?....You can contact me via arittrabag@gmail.com
 
 <!---
