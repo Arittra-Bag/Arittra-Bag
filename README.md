@@ -9,7 +9,7 @@
 Arittra-Bag/Arittra-Bag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://quine.sh/profile/ArittraBag"><img src="https://stats.quine.sh/ArittraBag/github" alt="ArittraBag's GitHub stats" width="840px"></a>
+<a href="https://quira.sh/user/ArittraBag"><img src="https://stats.quine.sh/ArittraBag/github" alt="ArittraBag's GitHub stats" width="840px"></a>
 
 ![Arittra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arittra-Bag&show_icons=true&theme=transparent)
 
