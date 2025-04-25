@@ -65,11 +65,11 @@ I'm a passionate Machine Learning Engineer with 1+ years of experience building 
       <h3 align="left">Alzheimer's Detection using Custom CNN</h3>
       <p>Developed a custom CNN to classify MRI images from the OASIS dataset into four dementia stages, achieving 99.99% accuracy.</p>
       <p align="center">
-        <a href="https://www.kaggle.com/code/arittrabag/alzheimer-s-detection-acc-99-99" target="kaggle">
-        <img src="https://img.shields.io/badge/Code-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Repo"/>
-        </a>
         <a href="https://dementiadreamscape.vercel.app" target="vercel">
         <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+        </a>
+        <a href="https://www.kaggle.com/code/arittrabag/alzheimer-s-detection-acc-99-99" target="kaggle">
+        <img src="https://img.shields.io/badge/Code-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Repo"/>
         </a>
       </p>
     </td>
