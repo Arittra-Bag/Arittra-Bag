@@ -77,8 +77,8 @@ I'm a passionate Machine Learning Engineer with 1+ years of experience building 
       <h3 align="left">Brain Tumor Classification System</h3>
       <p>Built a deep learning model using EfficientNet with advanced data augmentation and hyperparameter tuning to classify MRI scans with 99.5% accuracy.</p>
       <p align="center">
-        <a href="https://huggingface.co/spaces/arittrabag/Brain-Alzheimers-Tumor_Detection" target="huggingface">
-        <img src="https://img.shields.io/badge/Live-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live"/>
+        <a href="https://neura-scan.vercel.app" target="vercel">
+        <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
         </a>
         <a href="https://www.kaggle.com/code/arittrabag/classification-using-efficientnet-acc-99-5" target="kaggle">
         <img src="https://img.shields.io/badge/Code-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Repo"/>
