@@ -49,8 +49,9 @@ I'm a passionate Machine Learning Engineer with 1+ years of experience building 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arittra-Bag&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arittra-Bag&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Arittra-Bag&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arittra-Bag&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Arittra-Bag&theme=dark&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
 <div align="center">
