@@ -55,7 +55,7 @@ I'm a passionate Machine Learning Engineer with 1+ years of experience building 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arittra-Bag&theme=github-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 ## 🌟 Featured Projects
